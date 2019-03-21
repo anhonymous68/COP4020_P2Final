@@ -1,8 +1,5 @@
 grammar P2;
 
-@members {
-    List<CommonTree> functionList = new ArrayList<CommonTree>();
-}
 
 parse
  : block EOF
@@ -10,7 +7,6 @@ parse
 
 block
  : stat*
- | func*
  ;
 
 stat
@@ -20,17 +16,6 @@ stat
  | log
  | OTHER {System.err.println("unknown char: " + $OTHER.text);}
  ;
-
-func:   ID  '(' formalPar ')' '=' stat -> ^(FUNC ID formalPar stat)
-    ;
-	finally {
-	  functionList.add($func.tree);
-	}
-
-formalPar
-    :   ID
-	|   INT
-	;
 
 assignment
  : ID ASSIGN expr SCOL

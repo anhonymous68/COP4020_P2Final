@@ -1,4 +1,4 @@
-// Generated from /home/lamborghini-linux/Desktop/Final/P2.g4 by ANTLR 4.7.2
+// Generated from /Users/anhhoang/Desktop/COP4020_P2Final/P2.g4 by ANTLR 4.7.2
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;
@@ -95,9 +95,6 @@ public class P2Parser extends Parser {
 
 	@Override
 	public ATN getATN() { return _ATN; }
-
-
-	    List<CommonTree> functionList = new ArrayList<CommonTree>();
 
 	public P2Parser(TokenStream input) {
 		super(input);

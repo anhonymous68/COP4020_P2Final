@@ -1,4 +1,4 @@
-// Generated from /home/lamborghini-linux/Desktop/Final/P2.g4 by ANTLR 4.7.2
+// Generated from /Users/anhhoang/Desktop/COP4020_P2Final/P2.g4 by ANTLR 4.7.2
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
@@ -89,9 +89,6 @@ public class P2Lexer extends Lexer {
 	public Vocabulary getVocabulary() {
 		return VOCABULARY;
 	}
-
-
-	    List<CommonTree> functionList = new ArrayList<CommonTree>();
 
 
 	public P2Lexer(CharStream input) {

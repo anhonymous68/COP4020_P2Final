@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04ad84c8-917b-45e2-88d3-c027a8bebb59" name="Default Changelist" comment="" />
+    <list default="true" id="04ad84c8-917b-45e2-88d3-c027a8bebb59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Final.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuncTree.g4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P2.g4" beforeDir="false" afterPath="$PROJECT_DIR$/P2.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/MyVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/MyVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2BaseListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2BaseListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2BaseVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2BaseVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Lexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Lexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Listener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$AdditiveExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$AdditiveExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$AndExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$AndExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$AssignmentContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$AssignmentContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$AtomContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$AtomContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$AtomExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$AtomExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$BlockContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$BlockContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$BooleanAtomContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$BooleanAtomContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$ConditionContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$ConditionContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$EqualityExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$EqualityExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$ExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$ExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$IdAtomContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$IdAtomContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$If_statContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$If_statContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$LogContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$LogContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$MultiplicationExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$MultiplicationExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$NilAtomContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$NilAtomContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$NotExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$NotExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$NumberAtomContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$NumberAtomContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$OrExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$OrExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$ParExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$ParExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$ParseContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$ParseContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$PowExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$PowExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$RelationalExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$RelationalExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$StatContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$StatContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$Stat_blockContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$Stat_blockContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$StringAtomContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$StringAtomContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$UnaryMinusExprContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$UnaryMinusExprContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser$While_statContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser$While_statContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/P2Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/P2Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Final/Value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Final/Value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2.interp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2.tokens" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2BaseListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2BaseVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2Lexer.interp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2Lexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2Lexer.tokens" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2Listener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P2Visitor.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="255">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,36 +77,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Downloads/antlr-4.7.2-complete.jar!/org/antlr/v4/runtime/Recognizer.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P2Lexer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6006">
-              <caret line="193" selection-start-line="193" selection-end-line="193" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P2Parser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3828">
-              <caret line="131" column="54" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test.bc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="204">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
@@ -62,49 +88,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P2.g4">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FuncTree.g4">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-891">
-              <folding>
-                <element signature="e#207#3216#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5742">
-              <caret line="185" column="1" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
+            <state relative-caret-position="306">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Value.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P2BaseVisitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="76" selection-start-column="76" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -144,19 +141,19 @@
         <option value="$PROJECT_DIR$/src/Value.java" />
         <option value="$PROJECT_DIR$/src/P2Lexer.java" />
         <option value="$PROJECT_DIR$/src/P2Parser.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/test.bc" />
-        <option value="$PROJECT_DIR$/src/MyVisitor.java" />
-        <option value="$PROJECT_DIR$/P2.g4" />
         <option value="$PROJECT_DIR$/FuncTree.g4" />
+        <option value="$PROJECT_DIR$/P2.g4" />
+        <option value="$PROJECT_DIR$/src/MyVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-107" />
-    <option name="y" value="536" />
-    <option name="width" value="2550" />
-    <option name="height" value="1054" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="13" />
+    <option name="y" value="30" />
+    <option name="width" value="928" />
+    <option name="height" value="1013" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -164,24 +161,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Final" type="462c0819:PsiDirectoryNode" />
+              <item name="COP4020_P2Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COP4020_P2Final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Final" type="462c0819:PsiDirectoryNode" />
+              <item name="COP4020_P2Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COP4020_P2Final" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,11 +192,12 @@
     <property name="$PROJECT_DIR$/P2.g4::/output-dir" value="$PROJECT_DIR$/src" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552967528083" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553206904191" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -252,16 +250,19 @@
       <workItem from="1553025228484" duration="663000" />
       <workItem from="1553056527020" duration="4000" />
       <workItem from="1553056575342" duration="240000" />
+      <workItem from="1553199226128" duration="1731000" />
+      <workItem from="1553206657586" duration="239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10634000" />
+    <option name="totallyTimeSpent" value="12612000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="35" width="2560" height="1405" extended-state="6" />
+    <frame x="141" y="111" width="1236" height="1013" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.262945" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42211056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -270,16 +271,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297414" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33011413" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.330076" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32953548" />
+      <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3297414" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="ANTLR Preview" order="14" weight="0.3297414" />
@@ -310,80 +311,48 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="jar://$USER_HOME$/Downloads/antlr-4.7.2-complete.jar!/org/antlr/v4/runtime/Recognizer.class" />
+    <entry file="file://$PROJECT_DIR$/src/Value.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Downloads/antlr-4.7.2-complete.jar!/org/antlr/v4/runtime/Recognizer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P2Lexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6006">
-          <caret line="193" selection-start-line="193" selection-end-line="193" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P2Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3828">
-          <caret line="131" column="54" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FuncTree.g4" />
+    <entry file="file://$PROJECT_DIR$/src/P2Parser.java" />
+    <entry file="file://$PROJECT_DIR$/src/P2BaseVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/P2Lexer.java" />
     <entry file="file://$PROJECT_DIR$/src/test.bc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P2.g4">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyVisitor.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5742">
-          <caret line="185" column="1" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Value.java">
+    <entry file="file://$PROJECT_DIR$/src/MyVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P2BaseVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="76" selection-start-column="76" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FuncTree.g4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-891">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
-            <element signature="e#207#3216#1" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -428,7 +397,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
